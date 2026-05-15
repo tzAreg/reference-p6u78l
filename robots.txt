@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tzAreg.github.io/reference-p6u78l/sitemap.xml
